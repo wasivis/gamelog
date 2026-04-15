@@ -9,7 +9,6 @@ import backlogRoutes from "./routes/backlogRoutes.js";
 import igdbRoutes from "./routes/igdbRoutes.js";
 import reviewRoutes from "./routes/reviewRoutes.js";
 import userRoutes from "./routes/userRoutes.js";
-import cors from "cors";
 
 
 const app = express();
