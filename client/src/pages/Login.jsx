@@ -29,9 +29,9 @@ export default function Login() {
   return (
     <div className="auth-page">
       <div className="auth-layout">
-        <div className="auth-hero" aria-label="GameLog">
-          <span>Game</span>
-          <span>Log</span>
+        <div className="auth-hero" aria-label="SaveSlot">
+          <span>Save</span>
+          <span>Slot</span>
         </div>
 
         <div className="auth-card">
